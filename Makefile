@@ -18,9 +18,9 @@ ALPINE_IMAGE 	?=alpine
 OPENSSL_IMAGE ?=frapsoft/openssl
 GOPROXY ?= https://proxy.golang.org
 
-VC_FRAMEWORK_VERSION				= v1.3.2
+VC_FRAMEWORK_VERSION				= v1.3.5
 KMS_FRAMEWORK_VERSION 				= v1.2.1
-DID_GO_VERSION						= v1.3.3
+DID_GO_VERSION						= v1.3.7
 SIDE_TREE_VERSION					= f4260aff710479ba5fa3f0c61b51d451d9041225
 
 BUILD_DATE=$(shell date +'%Y%m%d%H%M%S' -d @$(shell git show -s --format=%ct))
