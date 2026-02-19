@@ -15,7 +15,7 @@ require (
 )
 
 require (
-	github.com/IBM/mathlib v0.0.3-0.20250709075152-a138079496c3 // indirect
+	github.com/IBM/mathlib v0.0.3-0.20260123144934-21c357e3e46f // indirect
 	github.com/PaesslerAG/gval v1.2.4 // indirect
 	github.com/PaesslerAG/jsonpath v0.1.2-0.20240726212847-3a740cf7976f // indirect
 	github.com/VictoriaMetrics/fastcache v1.13.0 // indirect
@@ -34,7 +34,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.35.1 // indirect
 	github.com/aws/aws-sdk-go-v2/service/sts v1.38.6 // indirect
 	github.com/aws/smithy-go v1.23.0 // indirect
-	github.com/bits-and-blooms/bitset v1.24.2 // indirect
+	github.com/bits-and-blooms/bitset v1.24.4 // indirect
 	github.com/bluele/gcache v0.0.2 // indirect
 	github.com/btcsuite/btcd v0.20.1-beta // indirect
 	github.com/btcsuite/btcd/btcec/v2 v2.3.5 // indirect
@@ -77,10 +77,10 @@ require (
 	github.com/tidwall/match v1.2.0 // indirect
 	github.com/tidwall/pretty v1.2.1 // indirect
 	github.com/tidwall/sjson v1.2.5 // indirect
-	github.com/trustbloc/bbs-signature-go v1.0.3 // indirect
+	github.com/trustbloc/bbs-signature-go v1.0.4 // indirect
 	github.com/trustbloc/did-go v1.3.7 // indirect
 	github.com/trustbloc/kms-go v1.2.3 // indirect
-	github.com/trustbloc/vc-go v1.3.5 // indirect
+	github.com/trustbloc/vc-go v1.3.6 // indirect
 	github.com/veraison/go-cose v1.3.0 // indirect
 	github.com/x448/float16 v0.8.4 // indirect
 	github.com/xdg-go/pbkdf2 v1.0.0 // indirect
@@ -97,11 +97,11 @@ require (
 	go.opentelemetry.io/otel/metric v1.38.0 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 	go.uber.org/zap v1.27.0 // indirect
-	golang.org/x/crypto v0.43.0 // indirect
+	golang.org/x/crypto v0.47.0 // indirect
 	golang.org/x/exp v0.0.0-20251023183803-a4bb9ffd2546 // indirect
-	golang.org/x/sync v0.17.0 // indirect
-	golang.org/x/sys v0.37.0 // indirect
-	golang.org/x/text v0.30.0 // indirect
+	golang.org/x/sync v0.19.0 // indirect
+	golang.org/x/sys v0.40.0 // indirect
+	golang.org/x/text v0.33.0 // indirect
 	google.golang.org/protobuf v1.36.10 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
